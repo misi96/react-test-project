@@ -1,0 +1,19 @@
+#menu_container {
+    width: 100%;
+    height: 50px;
+    background: darkblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#menu_items > a {
+    color: white;
+    padding-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#header_title {
+    margin-left: 20px;
+}
