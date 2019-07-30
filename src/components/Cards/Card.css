@@ -5,6 +5,8 @@
     border-style: ridge;
     margin-bottom: 50px;
     position: relative;
+    max-width: 400px;
+
 }
 
 .price{

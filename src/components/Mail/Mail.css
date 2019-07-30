@@ -1,0 +1,71 @@
+.flex-container{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    border :10px solid #EDF1FC;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-bottom: 70px;
+    padding-top:50px;
+    padding-bottom: 50px;
+
+}
+.title_items{
+    background-image: url("boritek.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title_items>h1{
+    margin: 40px 40px;
+}
+.title_items>p{
+    text-align: center;
+}
+
+.input1{
+    width: 300px;
+    margin: 20px 20px 20px 20px;
+    border:2px solid 	#5cb85c;
+
+}
+.input2{
+    width: 300px;
+    margin: 20px 20px 20px 20px;
+    border:2px solid #EDF1FC;
+}
+.input_items{
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+form{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.button_item{
+    display: flex;
+    justify-content: center;
+}
+
+.button5{
+    color:white;
+    background-color: #4CAF50;
+    border:none;
+    text-align: center;
+    border-radius: 8px;
+    width: 20%;
+    margin: 30px 30px;
+
+}
+#header{
+    text-align: center;
+}
+#paragraf{
+    font-size: 20px;
+}

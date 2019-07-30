@@ -1,0 +1,35 @@
+.full2{
+    background-color: #223360;
+
+}
+.partner{
+    color: white;
+    margin: 70px;
+    text-align: center;
+
+}
+.footer{
+    background-color: #2D3F71;
+    padding-top: 40px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.footer_title>a{
+    align-self: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+
+}
+
+.footer_paragraf>a{
+    color:grey;
+
+}
+
+.page_bottom{
+    margin-top: 30px;
+    text-align: center;
+    color: #1E69BE ;
+}
